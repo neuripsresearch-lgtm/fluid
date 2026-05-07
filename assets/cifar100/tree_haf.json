@@ -1,0 +1,575 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "L4_0",
+      "children": [
+        {
+          "name": "L3_3",
+          "children": [
+            {
+              "name": "L2_5",
+              "children": [
+                {
+                  "name": "L1_4",
+                  "children": [
+                    {
+                      "name": "apple",
+                      "children": null
+                    },
+                    {
+                      "name": "mushroom",
+                      "children": null
+                    },
+                    {
+                      "name": "orange",
+                      "children": null
+                    },
+                    {
+                      "name": "pear",
+                      "children": null
+                    },
+                    {
+                      "name": "sweet_pepper",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "L1_2",
+                  "children": [
+                    {
+                      "name": "orchid",
+                      "children": null
+                    },
+                    {
+                      "name": "poppy",
+                      "children": null
+                    },
+                    {
+                      "name": "rose",
+                      "children": null
+                    },
+                    {
+                      "name": "sunflower",
+                      "children": null
+                    },
+                    {
+                      "name": "tulip",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "L1_17",
+                  "children": [
+                    {
+                      "name": "maple_tree",
+                      "children": null
+                    },
+                    {
+                      "name": "oak_tree",
+                      "children": null
+                    },
+                    {
+                      "name": "palm_tree",
+                      "children": null
+                    },
+                    {
+                      "name": "pine_tree",
+                      "children": null
+                    },
+                    {
+                      "name": "willow_tree",
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "L2_3",
+              "children": [
+                {
+                  "name": "L1_14",
+                  "children": [
+                    {
+                      "name": "baby",
+                      "children": null
+                    },
+                    {
+                      "name": "boy",
+                      "children": null
+                    },
+                    {
+                      "name": "girl",
+                      "children": null
+                    },
+                    {
+                      "name": "man",
+                      "children": null
+                    },
+                    {
+                      "name": "woman",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "L1_8",
+                  "children": [
+                    {
+                      "name": "bear",
+                      "children": null
+                    },
+                    {
+                      "name": "leopard",
+                      "children": null
+                    },
+                    {
+                      "name": "lion",
+                      "children": null
+                    },
+                    {
+                      "name": "tiger",
+                      "children": null
+                    },
+                    {
+                      "name": "wolf",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "L1_11",
+                  "children": [
+                    {
+                      "name": "camel",
+                      "children": null
+                    },
+                    {
+                      "name": "cattle",
+                      "children": null
+                    },
+                    {
+                      "name": "chimpanzee",
+                      "children": null
+                    },
+                    {
+                      "name": "elephant",
+                      "children": null
+                    },
+                    {
+                      "name": "kangaroo",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "L1_12",
+                  "children": [
+                    {
+                      "name": "fox",
+                      "children": null
+                    },
+                    {
+                      "name": "porcupine",
+                      "children": null
+                    },
+                    {
+                      "name": "possum",
+                      "children": null
+                    },
+                    {
+                      "name": "raccoon",
+                      "children": null
+                    },
+                    {
+                      "name": "skunk",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "L1_16",
+                  "children": [
+                    {
+                      "name": "hamster",
+                      "children": null
+                    },
+                    {
+                      "name": "mouse",
+                      "children": null
+                    },
+                    {
+                      "name": "rabbit",
+                      "children": null
+                    },
+                    {
+                      "name": "shrew",
+                      "children": null
+                    },
+                    {
+                      "name": "squirrel",
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "L3_0",
+          "children": [
+            {
+              "name": "L2_6",
+              "children": [
+                {
+                  "name": "L1_1",
+                  "children": [
+                    {
+                      "name": "aquarium_fish",
+                      "children": null
+                    },
+                    {
+                      "name": "flatfish",
+                      "children": null
+                    },
+                    {
+                      "name": "ray",
+                      "children": null
+                    },
+                    {
+                      "name": "shark",
+                      "children": null
+                    },
+                    {
+                      "name": "trout",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "L1_0",
+                  "children": [
+                    {
+                      "name": "beaver",
+                      "children": null
+                    },
+                    {
+                      "name": "dolphin",
+                      "children": null
+                    },
+                    {
+                      "name": "otter",
+                      "children": null
+                    },
+                    {
+                      "name": "seal",
+                      "children": null
+                    },
+                    {
+                      "name": "whale",
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "L2_4",
+              "children": [
+                {
+                  "name": "L1_7",
+                  "children": [
+                    {
+                      "name": "bee",
+                      "children": null
+                    },
+                    {
+                      "name": "beetle",
+                      "children": null
+                    },
+                    {
+                      "name": "butterfly",
+                      "children": null
+                    },
+                    {
+                      "name": "caterpillar",
+                      "children": null
+                    },
+                    {
+                      "name": "cockroach",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "L1_13",
+                  "children": [
+                    {
+                      "name": "crab",
+                      "children": null
+                    },
+                    {
+                      "name": "lobster",
+                      "children": null
+                    },
+                    {
+                      "name": "snail",
+                      "children": null
+                    },
+                    {
+                      "name": "spider",
+                      "children": null
+                    },
+                    {
+                      "name": "worm",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "L1_15",
+                  "children": [
+                    {
+                      "name": "crocodile",
+                      "children": null
+                    },
+                    {
+                      "name": "dinosaur",
+                      "children": null
+                    },
+                    {
+                      "name": "lizard",
+                      "children": null
+                    },
+                    {
+                      "name": "snake",
+                      "children": null
+                    },
+                    {
+                      "name": "turtle",
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "L4_1",
+      "children": [
+        {
+          "name": "L3_1",
+          "children": [
+            {
+              "name": "L2_0",
+              "children": [
+                {
+                  "name": "L1_6",
+                  "children": [
+                    {
+                      "name": "bed",
+                      "children": null
+                    },
+                    {
+                      "name": "chair",
+                      "children": null
+                    },
+                    {
+                      "name": "couch",
+                      "children": null
+                    },
+                    {
+                      "name": "table",
+                      "children": null
+                    },
+                    {
+                      "name": "wardrobe",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "L1_3",
+                  "children": [
+                    {
+                      "name": "bottle",
+                      "children": null
+                    },
+                    {
+                      "name": "bowl",
+                      "children": null
+                    },
+                    {
+                      "name": "can",
+                      "children": null
+                    },
+                    {
+                      "name": "cup",
+                      "children": null
+                    },
+                    {
+                      "name": "plate",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "L1_5",
+                  "children": [
+                    {
+                      "name": "clock",
+                      "children": null
+                    },
+                    {
+                      "name": "keyboard",
+                      "children": null
+                    },
+                    {
+                      "name": "lamp",
+                      "children": null
+                    },
+                    {
+                      "name": "telephone",
+                      "children": null
+                    },
+                    {
+                      "name": "television",
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "L2_7",
+              "children": [
+                {
+                  "name": "L1_18",
+                  "children": [
+                    {
+                      "name": "bicycle",
+                      "children": null
+                    },
+                    {
+                      "name": "bus",
+                      "children": null
+                    },
+                    {
+                      "name": "motorcycle",
+                      "children": null
+                    },
+                    {
+                      "name": "pickup_truck",
+                      "children": null
+                    },
+                    {
+                      "name": "train",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "L1_19",
+                  "children": [
+                    {
+                      "name": "lawn_mower",
+                      "children": null
+                    },
+                    {
+                      "name": "rocket",
+                      "children": null
+                    },
+                    {
+                      "name": "streetcar",
+                      "children": null
+                    },
+                    {
+                      "name": "tank",
+                      "children": null
+                    },
+                    {
+                      "name": "tractor",
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "L2_1",
+              "children": [
+                {
+                  "name": "L1_9",
+                  "children": [
+                    {
+                      "name": "bridge",
+                      "children": null
+                    },
+                    {
+                      "name": "castle",
+                      "children": null
+                    },
+                    {
+                      "name": "house",
+                      "children": null
+                    },
+                    {
+                      "name": "road",
+                      "children": null
+                    },
+                    {
+                      "name": "skyscraper",
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "L3_2",
+          "children": [
+            {
+              "name": "L2_2",
+              "children": [
+                {
+                  "name": "L1_10",
+                  "children": [
+                    {
+                      "name": "cloud",
+                      "children": null
+                    },
+                    {
+                      "name": "forest",
+                      "children": null
+                    },
+                    {
+                      "name": "mountain",
+                      "children": null
+                    },
+                    {
+                      "name": "plain",
+                      "children": null
+                    },
+                    {
+                      "name": "sea",
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

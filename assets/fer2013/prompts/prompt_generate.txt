@@ -1,0 +1,96 @@
+You are an expert taxonomist and data scientist. Your task is to create a deep and logically consistent hierarchical tree structure for the 7 classes of the FER2013 dataset. You will be provided with a text file containing these 7 class names.
+
+Your goal is to group these classes based on their real-world, semantic relationships and provide clear justifications for your groupings.
+
+**\#\# Instructions**
+
+1.  **Input:** You will process an attached text file named `fer2013_classes.txt`. This file contains 7 comma separated class names from the FER2013 dataset.
+
+2.  **Task:** Read all 7 classes and organize them into a single, hierarchical JSON object. The hierarchy should be multi-level and reflect natural, real-world categories.
+
+3.  **Output Format:** The output must be a single JSON
+
+      * The structure should consist of nested objects.
+      * Every **parent node** (a non-leaf category you create) must be an object with three keys:
+          * `"name"`: The name of the category (e.g., "aquatic\_mammals").
+          * `"justification"`: A brief sentence explaining why the children of this node are grouped together under this name.
+          * `"children"`: An array containing its child nodes.
+      * Every **leaf node** (an original FER2013 class) should be represented as any other internal node, but with its children as None, and they do not require a justification field to be included.
+
+4.  **Core Requirements:**
+
+      * **Logical Grouping:** Parent nodes must have sensible, descriptive names. For example, "beaver", "dolphin", and "otter" could be grouped under "aquatic\_mammals". "Automobile" is a good parent for "bus" and "car".
+      * **Justification is Mandatory:** The `"justification"` field is critical. It must clearly and concisely explain the shared characteristic of the child nodes.
+      * **Completeness:** You must include all 7 classes from the input file as leaf nodes in the final tree. Each class must appear only once.
+      * **Hierarchy Depth:** Create a tree that is as deep as is logically sensible. Avoid creating a flat hierarchy with only one or two levels.
+
+-----
+
+**\#\# Example of Output Structure**
+
+Here is a small example of the required JSON structure for a few classes. Your final file should encompass all 7 classes under a single root node.
+
+```json
+{
+  "name": "entity",
+  "justification": "The root node representing all entities in the dataset.",
+  "children": [
+    {
+      "name": "living_organism",
+      "justification": "This category includes all entities that are alive, such as animals and plants.",
+      "children": [
+        {
+          "name": "animal",
+          "justification": "This category groups all fauna.",
+          "children": [
+            {
+              "name": "mammal",
+              "justification": "Warm-blooded vertebrates characterized by hair or fur and mammary glands.",
+              "children": [
+                {
+                  "name": "aquatic_mammal",
+                  "justification": "Mammals that primarily live in water.",
+                  "children": [
+                    "beaver",
+                    "dolphin",
+                    "otter",
+                    "seal",
+                    "whale"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "inanimate_object",
+      "justification": "This category includes all non-living, man-made or natural objects.",
+      "children": [
+        {
+          "name": "vehicle",
+          "justification": "Machines designed for transporting people or cargo.",
+          "children": [
+            {
+              "name": "terrestrial_vehicle",
+              "justification": "Vehicles that travel on land.",
+              "children": [
+                "bicycle",
+                "bus",
+                "motorcycle",
+                "pickup_truck",
+                "train",
+                "streetcar",
+                "tank"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
+
+Now, please process the provided class list and generate the complete hierarchy json

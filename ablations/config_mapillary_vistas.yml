@@ -1,0 +1,49 @@
+# Configuration for Mapillary Vistas Street-Level Imagery Dataset
+# Supports 66 semantic classes for autonomous driving and street-level understanding
+
+model:
+    arch: unet
+
+data:
+    dataset: mapillary_vistas
+    train_split: training
+    val_split: validation
+    img_rows: 128
+    img_cols: 256
+    path: /path/to/mapillary_vistas_dataset
+    classes_txt: ./assets/mapillary_vistas_classes.txt
+    # Initial tree hierarchy for Mapillary Vistas (66 classes)
+    initial_tree_txt: ./assets/mapillary_vistas_hierarchy.txt
+
+training:
+    # --- Iteration loop (critic-editor) ---
+    max_iter: 10              # number of outer iterations
+    epochs_per_iter: 20       # epochs trained per iteration
+    resume_weights: True      # carry model weights forward across iterations
+    dynamic_hierarchy: True   # True = LLM refines tree between iterations
+    max_tree_updates: 50      # max times LLM can edit the hierarchy
+    patience: 20              # early stopping patience (higher for larger dataset)
+    
+    # --- Subsampling ---
+    subsample_pct: 1.0        # Use 100% of training data from Mapillary (~18,000 images)
+
+    # --- Training hyperparameters ---
+    batch_size: 8             # Adjusted for Mapillary's larger spatial resolution
+    n_workers: 16             # More workers for larger dataset
+    print_interval: 10
+    use_hierarchy: True       # use hierarchical loss function
+    
+    optimizer:
+        name: 'sgd'
+        lr: 0.01
+    
+    loss:
+        name: 'tree_loss'     # hierarchical tree loss
+    
+    # --- Data augmentation ---
+    augmentations:
+        rcropfixed: None
+    
+    # --- Visualization ---
+    visdom: False
+    matplotlib: True

@@ -1,0 +1,598 @@
+{
+  "name": "entity",
+  "justification": "The root node representing all distinct classes found in the CIFAR-100 dataset.",
+  "children": [
+    {
+      "name": "living_organism",
+      "justification": "Biological entities that exhibit life processes such as growth, reproduction, and metabolism.",
+      "children": [
+        {
+          "name": "flora_and_fungi",
+          "justification": "Stationary biological organisms including plants, trees, and fungi.",
+          "children": [
+            {
+              "name": "tree",
+              "justification": "Large, perennial woody plants with a single main stem or trunk.",
+              "children": [
+                {
+                  "name": "maple_tree",
+                  "children": null
+                },
+                {
+                  "name": "oak_tree",
+                  "children": null
+                },
+                {
+                  "name": "palm_tree",
+                  "children": null
+                },
+                {
+                  "name": "pine_tree",
+                  "children": null
+                },
+                {
+                  "name": "willow_tree",
+                  "children": null
+                }
+              ]
+            },
+            {
+              "name": "flower",
+              "justification": "The reproductive structures found in flowering plants, often colorful.",
+              "children": [
+                {
+                  "name": "orchid",
+                  "children": null
+                },
+                {
+                  "name": "poppy",
+                  "children": null
+                },
+                {
+                  "name": "rose",
+                  "children": null
+                },
+                {
+                  "name": "sunflower",
+                  "children": null
+                },
+                {
+                  "name": "tulip",
+                  "children": null
+                }
+              ]
+            },
+            {
+              "name": "fruit_vegetable_fungi",
+              "justification": "Edible plant parts and fungi commonly consumed as food.",
+              "children": [
+                {
+                  "name": "apple",
+                  "children": null
+                },
+                {
+                  "name": "mushroom",
+                  "children": null
+                },
+                {
+                  "name": "orange",
+                  "children": null
+                },
+                {
+                  "name": "pear",
+                  "children": null
+                },
+                {
+                  "name": "sweet_pepper",
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "fauna",
+          "justification": "Mobile living organisms belonging to the kingdom Animalia.",
+          "children": [
+            {
+              "name": "human",
+              "justification": "Homo sapiens at various stages of development and gender.",
+              "children": [
+                {
+                  "name": "baby",
+                  "children": null
+                },
+                {
+                  "name": "boy",
+                  "children": null
+                },
+                {
+                  "name": "girl",
+                  "children": null
+                },
+                {
+                  "name": "man",
+                  "children": null
+                },
+                {
+                  "name": "woman",
+                  "children": null
+                }
+              ]
+            },
+            {
+              "name": "non_human_animal",
+              "justification": "All animals excluding humans.",
+              "children": [
+                {
+                  "name": "invertebrate",
+                  "justification": "Animals that do not possess or develop a vertebral column (backbone).",
+                  "children": [
+                    {
+                      "name": "insect",
+                      "justification": "Small arthropods with six legs and typically one or two pairs of wings.",
+                      "children": [
+                        {
+                          "name": "bee",
+                          "children": null
+                        },
+                        {
+                          "name": "beetle",
+                          "children": null
+                        },
+                        {
+                          "name": "butterfly",
+                          "children": null
+                        },
+                        {
+                          "name": "caterpillar",
+                          "children": null
+                        },
+                        {
+                          "name": "cockroach",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "other_invertebrate",
+                      "justification": "Invertebrates including arachnids, crustaceans, mollusks, and annelids.",
+                      "children": [
+                        {
+                          "name": "crab",
+                          "children": null
+                        },
+                        {
+                          "name": "lobster",
+                          "children": null
+                        },
+                        {
+                          "name": "snail",
+                          "children": null
+                        },
+                        {
+                          "name": "spider",
+                          "children": null
+                        },
+                        {
+                          "name": "worm",
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "vertebrate",
+                  "justification": "Animals possessing a backbone or spinal column.",
+                  "children": [
+                    {
+                      "name": "aquatic_vertebrate",
+                      "justification": "Cold-blooded vertebrates that live in water and breathe using gills (Fish).",
+                      "children": [
+                        {
+                          "name": "aquarium_fish",
+                          "children": null
+                        },
+                        {
+                          "name": "flatfish",
+                          "children": null
+                        },
+                        {
+                          "name": "ray",
+                          "children": null
+                        },
+                        {
+                          "name": "shark",
+                          "children": null
+                        },
+                        {
+                          "name": "trout",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "reptile",
+                      "justification": "Cold-blooded vertebrates distinguished by dry scaly skin.",
+                      "children": [
+                        {
+                          "name": "crocodile",
+                          "children": null
+                        },
+                        {
+                          "name": "dinosaur",
+                          "children": null
+                        },
+                        {
+                          "name": "lizard",
+                          "children": null
+                        },
+                        {
+                          "name": "snake",
+                          "children": null
+                        },
+                        {
+                          "name": "turtle",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "mammal",
+                      "justification": "Warm-blooded vertebrates characterized by hair or fur and mammary glands.",
+                      "children": [
+                        {
+                          "name": "aquatic_mammal",
+                          "justification": "Mammals that rely on aquatic environments for their life cycle.",
+                          "children": [
+                            {
+                              "name": "beaver",
+                              "children": null
+                            },
+                            {
+                              "name": "dolphin",
+                              "children": null
+                            },
+                            {
+                              "name": "otter",
+                              "children": null
+                            },
+                            {
+                              "name": "seal",
+                              "children": null
+                            },
+                            {
+                              "name": "whale",
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "name": "terrestrial_mammal",
+                          "justification": "Mammals that primarily live on land.",
+                          "children": [
+                            {
+                              "name": "small_mammal",
+                              "justification": "Small-sized mammals, primarily rodents and lagomorphs.",
+                              "children": [
+                                {
+                                  "name": "hamster",
+                                  "children": null
+                                },
+                                {
+                                  "name": "mouse",
+                                  "children": null
+                                },
+                                {
+                                  "name": "rabbit",
+                                  "children": null
+                                },
+                                {
+                                  "name": "shrew",
+                                  "children": null
+                                },
+                                {
+                                  "name": "squirrel",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "medium_wild_mammal",
+                              "justification": "Medium-sized wild mammals, often scavengers or omnivores.",
+                              "children": [
+                                {
+                                  "name": "fox",
+                                  "children": null
+                                },
+                                {
+                                  "name": "porcupine",
+                                  "children": null
+                                },
+                                {
+                                  "name": "possum",
+                                  "children": null
+                                },
+                                {
+                                  "name": "raccoon",
+                                  "children": null
+                                },
+                                {
+                                  "name": "skunk",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "large_carnivore",
+                              "justification": "Large predatory mammals.",
+                              "children": [
+                                {
+                                  "name": "bear",
+                                  "children": null
+                                },
+                                {
+                                  "name": "leopard",
+                                  "children": null
+                                },
+                                {
+                                  "name": "lion",
+                                  "children": null
+                                },
+                                {
+                                  "name": "tiger",
+                                  "children": null
+                                },
+                                {
+                                  "name": "wolf",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "large_herbivore_and_primate",
+                              "justification": "Large plant-eating mammals and large non-human primates.",
+                              "children": [
+                                {
+                                  "name": "camel",
+                                  "children": null
+                                },
+                                {
+                                  "name": "cattle",
+                                  "children": null
+                                },
+                                {
+                                  "name": "chimpanzee",
+                                  "children": null
+                                },
+                                {
+                                  "name": "elephant",
+                                  "children": null
+                                },
+                                {
+                                  "name": "kangaroo",
+                                  "children": null
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "non_living_object",
+      "justification": "Entities that are inanimate, including natural phenomena and man-made artifacts.",
+      "children": [
+        {
+          "name": "natural_environment",
+          "justification": "Large-scale outdoor scenery and natural geographic features.",
+          "children": [
+            {
+              "name": "cloud",
+              "children": null
+            },
+            {
+              "name": "forest",
+              "children": null
+            },
+            {
+              "name": "mountain",
+              "children": null
+            },
+            {
+              "name": "plain",
+              "children": null
+            },
+            {
+              "name": "sea",
+              "children": null
+            }
+          ]
+        },
+        {
+          "name": "man_made_artifact",
+          "justification": "Objects and structures created by human manufacturing or construction.",
+          "children": [
+            {
+              "name": "structure_and_construction",
+              "justification": "Large, fixed constructions and buildings.",
+              "children": [
+                {
+                  "name": "bridge",
+                  "children": null
+                },
+                {
+                  "name": "castle",
+                  "children": null
+                },
+                {
+                  "name": "house",
+                  "children": null
+                },
+                {
+                  "name": "road",
+                  "children": null
+                },
+                {
+                  "name": "skyscraper",
+                  "children": null
+                }
+              ]
+            },
+            {
+              "name": "vehicle_and_machinery",
+              "justification": "Machines used for transportation or heavy utility tasks.",
+              "children": [
+                {
+                  "name": "road_and_urban_transport",
+                  "justification": "Vehicles primarily designed for transporting people on roads or rails.",
+                  "children": [
+                    {
+                      "name": "bicycle",
+                      "children": null
+                    },
+                    {
+                      "name": "bus",
+                      "children": null
+                    },
+                    {
+                      "name": "motorcycle",
+                      "children": null
+                    },
+                    {
+                      "name": "pickup_truck",
+                      "children": null
+                    },
+                    {
+                      "name": "streetcar",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "specialized_and_heavy_machinery",
+                  "justification": "Vehicles and machines designed for specific utility, military, or heavy transport purposes.",
+                  "children": [
+                    {
+                      "name": "lawn_mower",
+                      "children": null
+                    },
+                    {
+                      "name": "rocket",
+                      "children": null
+                    },
+                    {
+                      "name": "tank",
+                      "children": null
+                    },
+                    {
+                      "name": "tractor",
+                      "children": null
+                    },
+                    {
+                      "name": "train",
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "indoor_artifact",
+              "justification": "Smaller man-made objects typically found inside a home or building.",
+              "children": [
+                {
+                  "name": "furniture",
+                  "justification": "Movable articles used to support various human activities like sleeping or sitting.",
+                  "children": [
+                    {
+                      "name": "bed",
+                      "children": null
+                    },
+                    {
+                      "name": "chair",
+                      "children": null
+                    },
+                    {
+                      "name": "couch",
+                      "children": null
+                    },
+                    {
+                      "name": "table",
+                      "children": null
+                    },
+                    {
+                      "name": "wardrobe",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "electronics_and_appliances",
+                  "justification": "Devices powered by electricity or used for household utility.",
+                  "children": [
+                    {
+                      "name": "clock",
+                      "children": null
+                    },
+                    {
+                      "name": "keyboard",
+                      "children": null
+                    },
+                    {
+                      "name": "lamp",
+                      "children": null
+                    },
+                    {
+                      "name": "telephone",
+                      "children": null
+                    },
+                    {
+                      "name": "television",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "kitchenware_and_container",
+                  "justification": "Vessels and utensils used for holding food or liquids.",
+                  "children": [
+                    {
+                      "name": "bottle",
+                      "children": null
+                    },
+                    {
+                      "name": "bowl",
+                      "children": null
+                    },
+                    {
+                      "name": "can",
+                      "children": null
+                    },
+                    {
+                      "name": "cup",
+                      "children": null
+                    },
+                    {
+                      "name": "plate",
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

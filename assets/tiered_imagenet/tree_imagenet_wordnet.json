@@ -1,0 +1,3607 @@
+{
+  "name": "physical_entity",
+  "children": [
+    {
+      "name": "object",
+      "children": [
+        {
+          "name": "whole",
+          "children": [
+            {
+              "name": "animal",
+              "children": [
+                {
+                  "name": "vertebrate",
+                  "children": [
+                    {
+                      "name": "bird",
+                      "children": [
+                        {
+                          "name": "oscine",
+                          "children": [
+                            {
+                              "name": "finch",
+                              "children": [
+                                {
+                                  "name": "brambling",
+                                  "children": null
+                                },
+                                {
+                                  "name": "goldfinch",
+                                  "children": null
+                                },
+                                {
+                                  "name": "house_finch",
+                                  "children": null
+                                },
+                                {
+                                  "name": "junco",
+                                  "children": null
+                                },
+                                {
+                                  "name": "indigo_bunting",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "thrush",
+                              "children": [
+                                {
+                                  "name": "robin",
+                                  "children": null
+                                },
+                                {
+                                  "name": "bulbul",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "corvine_bird",
+                              "children": [
+                                {
+                                  "name": "jay",
+                                  "children": null
+                                },
+                                {
+                                  "name": "magpie",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "chickadee",
+                              "children": null
+                            },
+                            {
+                              "name": "water_ouzel",
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "name": "aquatic_bird",
+                          "children": [
+                            {
+                              "name": "anseriform_bird",
+                              "children": [
+                                {
+                                  "name": "duck",
+                                  "children": [
+                                    {
+                                      "name": "drake",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "red-breasted_merganser",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "goose",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "black_swan",
+                              "children": null
+                            },
+                            {
+                              "name": "wading_bird",
+                              "children": [
+                                {
+                                  "name": "stork",
+                                  "children": [
+                                    {
+                                      "name": "white_stork",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "black_stork",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "spoonbill",
+                                  "children": null
+                                },
+                                {
+                                  "name": "flamingo",
+                                  "children": null
+                                },
+                                {
+                                  "name": "heron",
+                                  "children": [
+                                    {
+                                      "name": "little_blue_heron",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "American_egret",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "bittern",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "crane",
+                                  "children": null
+                                },
+                                {
+                                  "name": "limpkin",
+                                  "children": null
+                                },
+                                {
+                                  "name": "American_coot",
+                                  "children": null
+                                },
+                                {
+                                  "name": "bustard",
+                                  "children": null
+                                },
+                                {
+                                  "name": "shorebird",
+                                  "children": [
+                                    {
+                                      "name": "ruddy_turnstone",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "sandpiper",
+                                      "children": [
+                                        {
+                                          "name": "red-backed_sandpiper",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "redshank",
+                                          "children": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "dowitcher",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "oystercatcher",
+                                      "children": null
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "European_gallinule",
+                              "children": null
+                            },
+                            {
+                              "name": "seabird",
+                              "children": [
+                                {
+                                  "name": "pelican",
+                                  "children": null
+                                },
+                                {
+                                  "name": "king_penguin",
+                                  "children": null
+                                },
+                                {
+                                  "name": "albatross",
+                                  "children": null
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "diapsid",
+                      "children": [
+                        {
+                          "name": "lizard",
+                          "children": [
+                            {
+                              "name": "banded_gecko",
+                              "children": null
+                            },
+                            {
+                              "name": "iguanid",
+                              "children": [
+                                {
+                                  "name": "common_iguana",
+                                  "children": null
+                                },
+                                {
+                                  "name": "American_chameleon",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "whiptail",
+                              "children": null
+                            },
+                            {
+                              "name": "agamid",
+                              "children": [
+                                {
+                                  "name": "agama",
+                                  "children": null
+                                },
+                                {
+                                  "name": "frilled_lizard",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "alligator_lizard",
+                              "children": null
+                            },
+                            {
+                              "name": "Gila_monster",
+                              "children": null
+                            },
+                            {
+                              "name": "green_lizard",
+                              "children": null
+                            },
+                            {
+                              "name": "African_chameleon",
+                              "children": null
+                            },
+                            {
+                              "name": "Komodo_dragon",
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "name": "snake",
+                          "children": [
+                            {
+                              "name": "colubrid_snake",
+                              "children": [
+                                {
+                                  "name": "thunder_snake",
+                                  "children": null
+                                },
+                                {
+                                  "name": "ringneck_snake",
+                                  "children": null
+                                },
+                                {
+                                  "name": "hognose_snake",
+                                  "children": null
+                                },
+                                {
+                                  "name": "green_snake",
+                                  "children": null
+                                },
+                                {
+                                  "name": "king_snake",
+                                  "children": null
+                                },
+                                {
+                                  "name": "garter_snake",
+                                  "children": null
+                                },
+                                {
+                                  "name": "water_snake",
+                                  "children": null
+                                },
+                                {
+                                  "name": "vine_snake",
+                                  "children": null
+                                },
+                                {
+                                  "name": "night_snake",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "boa",
+                              "children": [
+                                {
+                                  "name": "boa_constrictor",
+                                  "children": null
+                                },
+                                {
+                                  "name": "rock_python",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "elapid",
+                              "children": [
+                                {
+                                  "name": "Indian_cobra",
+                                  "children": null
+                                },
+                                {
+                                  "name": "green_mamba",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "sea_snake",
+                              "children": null
+                            },
+                            {
+                              "name": "viper",
+                              "children": [
+                                {
+                                  "name": "horned_viper",
+                                  "children": null
+                                },
+                                {
+                                  "name": "rattlesnake",
+                                  "children": [
+                                    {
+                                      "name": "diamondback",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "sidewinder",
+                                      "children": null
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "placental",
+                      "children": [
+                        {
+                          "name": "carnivore",
+                          "children": [
+                            {
+                              "name": "dog",
+                              "children": [
+                                {
+                                  "name": "hunting_dog",
+                                  "children": [
+                                    {
+                                      "name": "hound",
+                                      "children": [
+                                        {
+                                          "name": "Afghan_hound",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "basset",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "beagle",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "bloodhound",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "bluetick",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "black-and-tan_coonhound",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "foxhound",
+                                          "children": [
+                                            {
+                                              "name": "Walker_hound",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "English_foxhound",
+                                              "children": null
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "redbone",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "wolfhound",
+                                          "children": [
+                                            {
+                                              "name": "borzoi",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "Irish_wolfhound",
+                                              "children": null
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "greyhound",
+                                          "children": [
+                                            {
+                                              "name": "Italian_greyhound",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "whippet",
+                                              "children": null
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Ibizan_hound",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Norwegian_elkhound",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "otterhound",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Saluki",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Scottish_deerhound",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Weimaraner",
+                                          "children": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "terrier",
+                                      "children": [
+                                        {
+                                          "name": "bullterrier",
+                                          "children": [
+                                            {
+                                              "name": "Staffordshire_bullterrier",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "American_Staffordshire_terrier",
+                                              "children": null
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Bedlington_terrier",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Border_terrier",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Kerry_blue_terrier",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Irish_terrier",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Norfolk_terrier",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Norwich_terrier",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Yorkshire_terrier",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "wire-haired_fox_terrier",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "wirehair",
+                                          "children": [
+                                            {
+                                              "name": "Lakeland_terrier",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "Sealyham_terrier",
+                                              "children": null
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Airedale",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "cairn",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Australian_terrier",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Dandie_Dinmont",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Boston_bull",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "schnauzer",
+                                          "children": [
+                                            {
+                                              "name": "miniature_schnauzer",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "giant_schnauzer",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "standard_schnauzer",
+                                              "children": null
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Scotch_terrier",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Tibetan_terrier",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "silky_terrier",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "soft-coated_wheaten_terrier",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "West_Highland_white_terrier",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Lhasa",
+                                          "children": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "sporting_dog",
+                                      "children": [
+                                        {
+                                          "name": "retriever",
+                                          "children": [
+                                            {
+                                              "name": "flat-coated_retriever",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "curly-coated_retriever",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "golden_retriever",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "Labrador_retriever",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "Chesapeake_Bay_retriever",
+                                              "children": null
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "pointer",
+                                          "children": [
+                                            {
+                                              "name": "German_short-haired_pointer",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "vizsla",
+                                              "children": null
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "setter",
+                                          "children": [
+                                            {
+                                              "name": "English_setter",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "Irish_setter",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "Gordon_setter",
+                                              "children": null
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "spaniel",
+                                          "children": [
+                                            {
+                                              "name": "Brittany_spaniel",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "clumber",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "springer_spaniel",
+                                              "children": [
+                                                {
+                                                  "name": "English_springer",
+                                                  "children": null
+                                                },
+                                                {
+                                                  "name": "Welsh_springer_spaniel",
+                                                  "children": null
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "cocker_spaniel",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "Sussex_spaniel",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "Irish_water_spaniel",
+                                              "children": null
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "working_dog",
+                                  "children": [
+                                    {
+                                      "name": "watchdog",
+                                      "children": [
+                                        {
+                                          "name": "kuvasz",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "schipperke",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "pinscher",
+                                          "children": [
+                                            {
+                                              "name": "Doberman",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "miniature_pinscher",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "affenpinscher",
+                                              "children": null
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "shepherd_dog",
+                                      "children": [
+                                        {
+                                          "name": "Belgian)sheepdog",
+                                          "children": [
+                                            {
+                                              "name": "groenendael",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "malinois",
+                                              "children": null
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "briard",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "kelpie",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "komondor",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Old_English_sheepdog",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Shetland_sheepdog",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "collie",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Border_collie",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Bouvier_des_Flandres",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Rottweiler",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "German_shepherd",
+                                          "children": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Sennenhunde",
+                                      "children": [
+                                        {
+                                          "name": "Greater_Swiss_Mountain_dog",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Bernese_mountain_dog",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Appenzeller",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "EntleBucher",
+                                          "children": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "boxer",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "bull_mastiff",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "Tibetan_mastiff",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "French_bulldog",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "Great_Dane",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "Saint_Bernard",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "sled_dog",
+                                      "children": [
+                                        {
+                                          "name": "malamute",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Siberian_husky",
+                                          "children": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Eskimo_dog",
+                                      "children": null
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "feline",
+                              "children": [
+                                {
+                                  "name": "cat",
+                                  "children": [
+                                    {
+                                      "name": "domestic_cat",
+                                      "children": [
+                                        {
+                                          "name": "tabby",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "tiger_cat",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Persian_cat",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Siamese_cat",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "Egyptian_cat",
+                                          "children": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "wildcat",
+                                      "children": [
+                                        {
+                                          "name": "cougar",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "lynx",
+                                          "children": null
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "big_cat",
+                                  "children": [
+                                    {
+                                      "name": "leopard",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "snow_leopard",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "jaguar",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "lion",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "tiger",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "cheetah",
+                                      "children": null
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "ungulate",
+                          "children": [
+                            {
+                              "name": "equine",
+                              "children": [
+                                {
+                                  "name": "sorrel",
+                                  "children": null
+                                },
+                                {
+                                  "name": "zebra",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "even-toed_ungulate",
+                              "children": [
+                                {
+                                  "name": "swine",
+                                  "children": [
+                                    {
+                                      "name": "hog",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "wild_boar",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "warthog",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "hippopotamus",
+                                  "children": null
+                                },
+                                {
+                                  "name": "bovid",
+                                  "children": [
+                                    {
+                                      "name": "ox",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "water_buffalo",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "bison",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "ram",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "bighorn",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "ibex",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "antelope",
+                                      "children": [
+                                        {
+                                          "name": "hartebeest",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "impala",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "gazelle",
+                                          "children": null
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Arabian_camel",
+                                  "children": null
+                                },
+                                {
+                                  "name": "llama",
+                                  "children": null
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "primate",
+                          "children": [
+                            {
+                              "name": "anthropoid_ape",
+                              "children": [
+                                {
+                                  "name": "great_ape",
+                                  "children": [
+                                    {
+                                      "name": "orangutan",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "gorilla",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "chimpanzee",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "lesser_ape",
+                                  "children": [
+                                    {
+                                      "name": "gibbon",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "siamang",
+                                      "children": null
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "monkey",
+                              "children": [
+                                {
+                                  "name": "Old_World_monkey",
+                                  "children": [
+                                    {
+                                      "name": "guenon",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "patas",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "baboon",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "macaque",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "langur",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "colobus",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "proboscis_monkey",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "New_World_monkey",
+                                  "children": [
+                                    {
+                                      "name": "marmoset",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "capuchin",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "howler_monkey",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "titi",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "spider_monkey",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "squirrel_monkey",
+                                      "children": null
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "lemur",
+                              "children": [
+                                {
+                                  "name": "Madagascar_cat",
+                                  "children": null
+                                },
+                                {
+                                  "name": "indri",
+                                  "children": null
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "fish",
+                      "children": [
+                        {
+                          "name": "elasmobranch",
+                          "children": [
+                            {
+                              "name": "shark",
+                              "children": [
+                                {
+                                  "name": "great_white_shark",
+                                  "children": null
+                                },
+                                {
+                                  "name": "tiger_shark",
+                                  "children": null
+                                },
+                                {
+                                  "name": "hammerhead",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "ray",
+                              "children": [
+                                {
+                                  "name": "electric_ray",
+                                  "children": null
+                                },
+                                {
+                                  "name": "stingray",
+                                  "children": null
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "barracouta",
+                          "children": null
+                        },
+                        {
+                          "name": "teleost_fish",
+                          "children": [
+                            {
+                              "name": "soft-finned_fish",
+                              "children": [
+                                {
+                                  "name": "cyprinid",
+                                  "children": [
+                                    {
+                                      "name": "tench",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "goldfish",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "eel",
+                                  "children": null
+                                },
+                                {
+                                  "name": "coho",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "spiny-finned_fish",
+                              "children": [
+                                {
+                                  "name": "percoid_fish",
+                                  "children": [
+                                    {
+                                      "name": "rock_beauty",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "anemone_fish",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "lionfish",
+                                  "children": null
+                                },
+                                {
+                                  "name": "puffer",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "ganoid",
+                              "children": [
+                                {
+                                  "name": "sturgeon",
+                                  "children": null
+                                },
+                                {
+                                  "name": "gar",
+                                  "children": null
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "insect",
+                  "children": [
+                    {
+                      "name": "beetle",
+                      "children": [
+                        {
+                          "name": "tiger_beetle",
+                          "children": null
+                        },
+                        {
+                          "name": "ladybug",
+                          "children": null
+                        },
+                        {
+                          "name": "ground_beetle",
+                          "children": null
+                        },
+                        {
+                          "name": "long-horned_beetle",
+                          "children": null
+                        },
+                        {
+                          "name": "leaf_beetle",
+                          "children": null
+                        },
+                        {
+                          "name": "scarabaeid_beetle",
+                          "children": [
+                            {
+                              "name": "dung_beetle",
+                              "children": null
+                            },
+                            {
+                              "name": "rhinoceros_beetle",
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "name": "weevil",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "fly",
+                      "children": null
+                    },
+                    {
+                      "name": "hymenopterous_insect",
+                      "children": [
+                        {
+                          "name": "bee",
+                          "children": null
+                        },
+                        {
+                          "name": "ant",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "orthopterous_insect",
+                      "children": [
+                        {
+                          "name": "grasshopper",
+                          "children": null
+                        },
+                        {
+                          "name": "cricket",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "walking_stick",
+                      "children": null
+                    },
+                    {
+                      "name": "dictyopterous_insect",
+                      "children": [
+                        {
+                          "name": "cockroach",
+                          "children": null
+                        },
+                        {
+                          "name": "mantis",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "homopterous_insect",
+                      "children": [
+                        {
+                          "name": "cicada",
+                          "children": null
+                        },
+                        {
+                          "name": "leafhopper",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "lacewing",
+                      "children": null
+                    },
+                    {
+                      "name": "odonate",
+                      "children": [
+                        {
+                          "name": "dragonfly",
+                          "children": null
+                        },
+                        {
+                          "name": "damselfly",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "butterfly",
+                      "children": [
+                        {
+                          "name": "admiral",
+                          "children": null
+                        },
+                        {
+                          "name": "ringlet",
+                          "children": null
+                        },
+                        {
+                          "name": "monarch",
+                          "children": null
+                        },
+                        {
+                          "name": "cabbage_butterfly",
+                          "children": null
+                        },
+                        {
+                          "name": "sulphur_butterfly",
+                          "children": null
+                        },
+                        {
+                          "name": "lycaenid",
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "natural_object",
+              "children": [
+                {
+                  "name": "edible_fruit",
+                  "children": [
+                    {
+                      "name": "Granny_Smith",
+                      "children": null
+                    },
+                    {
+                      "name": "strawberry",
+                      "children": null
+                    },
+                    {
+                      "name": "citrus",
+                      "children": [
+                        {
+                          "name": "orange",
+                          "children": null
+                        },
+                        {
+                          "name": "lemon",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "fig",
+                      "children": null
+                    },
+                    {
+                      "name": "pineapple",
+                      "children": null
+                    },
+                    {
+                      "name": "banana",
+                      "children": null
+                    },
+                    {
+                      "name": "jackfruit",
+                      "children": null
+                    },
+                    {
+                      "name": "custard_apple",
+                      "children": null
+                    },
+                    {
+                      "name": "pomegranate",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "sandbar",
+                  "children": null
+                }
+              ]
+            },
+            {
+              "name": "artifact",
+              "children": [
+                {
+                  "name": "consumer_goods",
+                  "children": [
+                    {
+                      "name": "appliance",
+                      "children": [
+                        {
+                          "name": "hand_blower",
+                          "children": null
+                        },
+                        {
+                          "name": "home_appliance",
+                          "children": [
+                            {
+                              "name": "iron",
+                              "children": null
+                            },
+                            {
+                              "name": "kitchen_appliance",
+                              "children": [
+                                {
+                                  "name": "espresso_maker",
+                                  "children": null
+                                },
+                                {
+                                  "name": "microwave",
+                                  "children": null
+                                },
+                                {
+                                  "name": "oven",
+                                  "children": [
+                                    {
+                                      "name": "Dutch_oven",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "rotisserie",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "toaster",
+                                  "children": null
+                                },
+                                {
+                                  "name": "waffle_iron",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "vacuum",
+                              "children": null
+                            },
+                            {
+                              "name": "white_goods",
+                              "children": [
+                                {
+                                  "name": "dishwasher",
+                                  "children": null
+                                },
+                                {
+                                  "name": "refrigerator",
+                                  "children": null
+                                },
+                                {
+                                  "name": "washer",
+                                  "children": null
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "clothing",
+                      "children": [
+                        {
+                          "name": "garment",
+                          "children": [
+                            {
+                              "name": "brassiere",
+                              "children": null
+                            },
+                            {
+                              "name": "diaper",
+                              "children": null
+                            },
+                            {
+                              "name": "jean",
+                              "children": null
+                            },
+                            {
+                              "name": "jersey",
+                              "children": null
+                            },
+                            {
+                              "name": "necktie",
+                              "children": [
+                                {
+                                  "name": "bolo_tie",
+                                  "children": null
+                                },
+                                {
+                                  "name": "bow_tie",
+                                  "children": null
+                                },
+                                {
+                                  "name": "Windsor_tie",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "overgarment",
+                              "children": [
+                                {
+                                  "name": "coat",
+                                  "children": [
+                                    {
+                                      "name": "fur_coat",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "lab_coat",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "trench_coat",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "poncho",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "robe",
+                              "children": [
+                                {
+                                  "name": "abaya",
+                                  "children": null
+                                },
+                                {
+                                  "name": "kimono",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "scarf",
+                              "children": [
+                                {
+                                  "name": "feather_boa",
+                                  "children": null
+                                },
+                                {
+                                  "name": "stole",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "skirt",
+                              "children": [
+                                {
+                                  "name": "hoopskirt",
+                                  "children": null
+                                },
+                                {
+                                  "name": "miniskirt",
+                                  "children": null
+                                },
+                                {
+                                  "name": "overskirt",
+                                  "children": null
+                                },
+                                {
+                                  "name": "sarong",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "suit",
+                              "children": null
+                            },
+                            {
+                              "name": "sweater",
+                              "children": [
+                                {
+                                  "name": "cardigan",
+                                  "children": null
+                                },
+                                {
+                                  "name": "sweatshirt",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "swimsuit",
+                              "children": [
+                                {
+                                  "name": "bikini",
+                                  "children": null
+                                },
+                                {
+                                  "name": "maillot",
+                                  "children": null
+                                },
+                                {
+                                  "name": "swimming_trunks",
+                                  "children": null
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "seat_belt",
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "instrumentality",
+                  "children": [
+                    {
+                      "name": "device",
+                      "children": [
+                        {
+                          "name": "instrument",
+                          "children": [
+                            {
+                              "name": "guillotine",
+                              "children": null
+                            },
+                            {
+                              "name": "magnetic_compass",
+                              "children": null
+                            },
+                            {
+                              "name": "magnifier",
+                              "children": [
+                                {
+                                  "name": "loupe",
+                                  "children": null
+                                },
+                                {
+                                  "name": "radio_telescope",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "measuring_instrument",
+                              "children": [
+                                {
+                                  "name": "barometer",
+                                  "children": null
+                                },
+                                {
+                                  "name": "odometer",
+                                  "children": null
+                                },
+                                {
+                                  "name": "rule",
+                                  "children": null
+                                },
+                                {
+                                  "name": "scale",
+                                  "children": null
+                                },
+                                {
+                                  "name": "timepiece",
+                                  "children": [
+                                    {
+                                      "name": "clock",
+                                      "children": [
+                                        {
+                                          "name": "analog_clock",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "digital_clock",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "wall_clock",
+                                          "children": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "digital_watch",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "hourglass",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "sundial",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "timer",
+                                      "children": [
+                                        {
+                                          "name": "parking_meter",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "stopwatch",
+                                          "children": null
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "medical_instrument",
+                              "children": [
+                                {
+                                  "name": "stethoscope",
+                                  "children": null
+                                },
+                                {
+                                  "name": "syringe",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "optical_instrument",
+                              "children": [
+                                {
+                                  "name": "binoculars",
+                                  "children": null
+                                },
+                                {
+                                  "name": "projector",
+                                  "children": null
+                                },
+                                {
+                                  "name": "sunglasses",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "weapon",
+                              "children": [
+                                {
+                                  "name": "bow",
+                                  "children": null
+                                },
+                                {
+                                  "name": "gun",
+                                  "children": [
+                                    {
+                                      "name": "cannon",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "firearm",
+                                      "children": [
+                                        {
+                                          "name": "assault_rifle",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "revolver",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "rifle",
+                                          "children": null
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "missile",
+                                  "children": null
+                                },
+                                {
+                                  "name": "projectile",
+                                  "children": null
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "machine",
+                          "children": [
+                            {
+                              "name": "abacus",
+                              "children": null
+                            },
+                            {
+                              "name": "cash_machine",
+                              "children": null
+                            },
+                            {
+                              "name": "computer",
+                              "children": [
+                                {
+                                  "name": "personal_computer",
+                                  "children": [
+                                    {
+                                      "name": "desktop_computer",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "portable_computer",
+                                      "children": [
+                                        {
+                                          "name": "hand-held_computer",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "laptop",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "notebook",
+                                          "children": null
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "slide_rule",
+                                  "children": null
+                                },
+                                {
+                                  "name": "web_site",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "farm_machine",
+                              "children": [
+                                {
+                                  "name": "harvester",
+                                  "children": null
+                                },
+                                {
+                                  "name": "thresher",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "slot_machine",
+                              "children": [
+                                {
+                                  "name": "slot",
+                                  "children": null
+                                },
+                                {
+                                  "name": "vending_machine",
+                                  "children": null
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "mechanism",
+                          "children": [
+                            {
+                              "name": "mechanical_device",
+                              "children": [
+                                {
+                                  "name": "carousel",
+                                  "children": null
+                                },
+                                {
+                                  "name": "gas_pump",
+                                  "children": null
+                                },
+                                {
+                                  "name": "hook",
+                                  "children": null
+                                },
+                                {
+                                  "name": "reel",
+                                  "children": null
+                                },
+                                {
+                                  "name": "swing",
+                                  "children": null
+                                },
+                                {
+                                  "name": "wheel",
+                                  "children": [
+                                    {
+                                      "name": "car_wheel",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "paddlewheel",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "pinwheel",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "potter's_wheel",
+                                      "children": null
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "puck",
+                              "children": null
+                            },
+                            {
+                              "name": "radiator",
+                              "children": null
+                            },
+                            {
+                              "name": "switch",
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "name": "musical_instrument",
+                          "children": [
+                            {
+                              "name": "keyboard_instrument",
+                              "children": [
+                                {
+                                  "name": "organ",
+                                  "children": null
+                                },
+                                {
+                                  "name": "piano",
+                                  "children": [
+                                    {
+                                      "name": "grand_piano",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "upright",
+                                      "children": null
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "percussion_instrument",
+                              "children": [
+                                {
+                                  "name": "chime",
+                                  "children": null
+                                },
+                                {
+                                  "name": "drum",
+                                  "children": null
+                                },
+                                {
+                                  "name": "gong",
+                                  "children": null
+                                },
+                                {
+                                  "name": "maraca",
+                                  "children": null
+                                },
+                                {
+                                  "name": "marimba",
+                                  "children": null
+                                },
+                                {
+                                  "name": "steel_drum",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "stringed_instrument",
+                              "children": [
+                                {
+                                  "name": "banjo",
+                                  "children": null
+                                },
+                                {
+                                  "name": "bowed_stringed_instrument",
+                                  "children": [
+                                    {
+                                      "name": "cello",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "violin",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "guitar",
+                                  "children": [
+                                    {
+                                      "name": "acoustic_guitar",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "electric_guitar",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "harp",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "wind_instrument",
+                              "children": [
+                                {
+                                  "name": "brass",
+                                  "children": [
+                                    {
+                                      "name": "cornet",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "French_horn",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "trombone",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "free-reed_instrument",
+                                  "children": [
+                                    {
+                                      "name": "accordion",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "harmonica",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "ocarina",
+                                  "children": null
+                                },
+                                {
+                                  "name": "panpipe",
+                                  "children": null
+                                },
+                                {
+                                  "name": "woodwind",
+                                  "children": [
+                                    {
+                                      "name": "beating-reed_instrument",
+                                      "children": [
+                                        {
+                                          "name": "double-reed_instrument",
+                                          "children": [
+                                            {
+                                              "name": "bassoon",
+                                              "children": null
+                                            },
+                                            {
+                                              "name": "oboe",
+                                              "children": null
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "sax",
+                                          "children": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "flute",
+                                      "children": null
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "restraint",
+                          "children": [
+                            {
+                              "name": "disk_brake",
+                              "children": null
+                            },
+                            {
+                              "name": "fastener",
+                              "children": [
+                                {
+                                  "name": "buckle",
+                                  "children": null
+                                },
+                                {
+                                  "name": "hair_slide",
+                                  "children": null
+                                },
+                                {
+                                  "name": "knot",
+                                  "children": null
+                                },
+                                {
+                                  "name": "lock",
+                                  "children": [
+                                    {
+                                      "name": "combination_lock",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "padlock",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "nail",
+                                  "children": null
+                                },
+                                {
+                                  "name": "safety_pin",
+                                  "children": null
+                                },
+                                {
+                                  "name": "screw",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "muzzle",
+                              "children": null
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "equipment",
+                      "children": [
+                        {
+                          "name": "electronic_equipment",
+                          "children": [
+                            {
+                              "name": "cassette_player",
+                              "children": null
+                            },
+                            {
+                              "name": "CD_player",
+                              "children": null
+                            },
+                            {
+                              "name": "computer_keyboard",
+                              "children": null
+                            },
+                            {
+                              "name": "iPod",
+                              "children": null
+                            },
+                            {
+                              "name": "modem",
+                              "children": null
+                            },
+                            {
+                              "name": "monitor",
+                              "children": null
+                            },
+                            {
+                              "name": "oscilloscope",
+                              "children": null
+                            },
+                            {
+                              "name": "tape_player",
+                              "children": null
+                            },
+                            {
+                              "name": "telephone",
+                              "children": [
+                                {
+                                  "name": "cellular_telephone",
+                                  "children": null
+                                },
+                                {
+                                  "name": "dial_telephone",
+                                  "children": null
+                                },
+                                {
+                                  "name": "pay-phone",
+                                  "children": null
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "game_equipment",
+                          "children": [
+                            {
+                              "name": "ball",
+                              "children": [
+                                {
+                                  "name": "baseball",
+                                  "children": null
+                                },
+                                {
+                                  "name": "basketball",
+                                  "children": null
+                                },
+                                {
+                                  "name": "croquet_ball",
+                                  "children": null
+                                },
+                                {
+                                  "name": "golf_ball",
+                                  "children": null
+                                },
+                                {
+                                  "name": "ping-pong_ball",
+                                  "children": null
+                                },
+                                {
+                                  "name": "punching_bag",
+                                  "children": null
+                                },
+                                {
+                                  "name": "rugby_ball",
+                                  "children": null
+                                },
+                                {
+                                  "name": "soccer_ball",
+                                  "children": null
+                                },
+                                {
+                                  "name": "tennis_ball",
+                                  "children": null
+                                },
+                                {
+                                  "name": "volleyball",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "puzzle",
+                              "children": [
+                                {
+                                  "name": "jigsaw_puzzle",
+                                  "children": null
+                                },
+                                {
+                                  "name": "crossword_puzzle",
+                                  "children": null
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "face_powder",
+                      "children": null
+                    },
+                    {
+                      "name": "furnishing",
+                      "children": [
+                        {
+                          "name": "furniture",
+                          "children": [
+                            {
+                              "name": "baby_bed",
+                              "children": [
+                                {
+                                  "name": "bassinet",
+                                  "children": null
+                                },
+                                {
+                                  "name": "cradle",
+                                  "children": null
+                                },
+                                {
+                                  "name": "crib",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "bookcase",
+                              "children": null
+                            },
+                            {
+                              "name": "cabinet",
+                              "children": [
+                                {
+                                  "name": "china_cabinet",
+                                  "children": null
+                                },
+                                {
+                                  "name": "medicine_chest",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "chiffonier",
+                              "children": null
+                            },
+                            {
+                              "name": "desk",
+                              "children": null
+                            },
+                            {
+                              "name": "dining_table",
+                              "children": null
+                            },
+                            {
+                              "name": "entertainment_center",
+                              "children": null
+                            },
+                            {
+                              "name": "file",
+                              "children": null
+                            },
+                            {
+                              "name": "four-poster",
+                              "children": null
+                            },
+                            {
+                              "name": "seat",
+                              "children": [
+                                {
+                                  "name": "chair",
+                                  "children": [
+                                    {
+                                      "name": "barber_chair",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "folding_chair",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "rocking_chair",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "throne",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "park_bench",
+                                  "children": null
+                                },
+                                {
+                                  "name": "studio_couch",
+                                  "children": null
+                                },
+                                {
+                                  "name": "toilet_seat",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "table_lamp",
+                              "children": null
+                            },
+                            {
+                              "name": "wardrobe",
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "name": "prayer_rug",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "implement",
+                      "children": [
+                        {
+                          "name": "pot",
+                          "children": [
+                            {
+                              "name": "caldron",
+                              "children": null
+                            },
+                            {
+                              "name": "coffeepot",
+                              "children": null
+                            },
+                            {
+                              "name": "teapot",
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "name": "tool",
+                          "children": [
+                            {
+                              "name": "edge_tool",
+                              "children": [
+                                {
+                                  "name": "hatchet",
+                                  "children": null
+                                },
+                                {
+                                  "name": "knife",
+                                  "children": [
+                                    {
+                                      "name": "cleaver",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "letter_opener",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "plane",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "hand_tool",
+                              "children": [
+                                {
+                                  "name": "hammer",
+                                  "children": null
+                                },
+                                {
+                                  "name": "opener",
+                                  "children": [
+                                    {
+                                      "name": "can_opener",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "corkscrew",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "plunger",
+                                  "children": null
+                                },
+                                {
+                                  "name": "screwdriver",
+                                  "children": null
+                                },
+                                {
+                                  "name": "shovel",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "lawn_mower",
+                              "children": null
+                            },
+                            {
+                              "name": "plow",
+                              "children": null
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "vehicle",
+                      "children": [
+                        {
+                          "name": "craft",
+                          "children": [
+                            {
+                              "name": "aircraft",
+                              "children": [
+                                {
+                                  "name": "heavier-than-air_craft",
+                                  "children": [
+                                    {
+                                      "name": "airliner",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "warplane",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "lighter-than-air_craft",
+                                  "children": [
+                                    {
+                                      "name": "airship",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "balloon",
+                                      "children": null
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "space_shuttle",
+                              "children": null
+                            },
+                            {
+                              "name": "vessel",
+                              "children": [
+                                {
+                                  "name": "boat",
+                                  "children": [
+                                    {
+                                      "name": "fireboat",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "gondola",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "lifeboat",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "small_boat",
+                                      "children": [
+                                        {
+                                          "name": "canoe",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "yawl",
+                                          "children": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "speedboat",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "sailing_vessel",
+                                  "children": [
+                                    {
+                                      "name": "sailboat",
+                                      "children": [
+                                        {
+                                          "name": "catamaran",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "trimaran",
+                                          "children": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "schooner",
+                                      "children": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "ship",
+                                  "children": [
+                                    {
+                                      "name": "container_ship",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "liner",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "pirate",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "warship",
+                                      "children": [
+                                        {
+                                          "name": "aircraft_carrier",
+                                          "children": null
+                                        },
+                                        {
+                                          "name": "submarine",
+                                          "children": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "wreck",
+                                      "children": null
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "motor_vehicle",
+                          "children": [
+                            {
+                              "name": "amphibian",
+                              "children": null
+                            },
+                            {
+                              "name": "car",
+                              "children": [
+                                {
+                                  "name": "ambulance",
+                                  "children": null
+                                },
+                                {
+                                  "name": "beach_wagon",
+                                  "children": null
+                                },
+                                {
+                                  "name": "cab",
+                                  "children": null
+                                },
+                                {
+                                  "name": "convertible",
+                                  "children": null
+                                },
+                                {
+                                  "name": "jeep",
+                                  "children": null
+                                },
+                                {
+                                  "name": "limousine",
+                                  "children": null
+                                },
+                                {
+                                  "name": "Model_T",
+                                  "children": null
+                                },
+                                {
+                                  "name": "racer",
+                                  "children": null
+                                },
+                                {
+                                  "name": "sports_car",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "go-kart",
+                              "children": null
+                            },
+                            {
+                              "name": "golfcart",
+                              "children": null
+                            },
+                            {
+                              "name": "moped",
+                              "children": null
+                            },
+                            {
+                              "name": "snowplow",
+                              "children": null
+                            },
+                            {
+                              "name": "truck",
+                              "children": [
+                                {
+                                  "name": "fire_engine",
+                                  "children": null
+                                },
+                                {
+                                  "name": "garbage_truck",
+                                  "children": null
+                                },
+                                {
+                                  "name": "pickup",
+                                  "children": null
+                                },
+                                {
+                                  "name": "tow_truck",
+                                  "children": null
+                                },
+                                {
+                                  "name": "trailer_truck",
+                                  "children": null
+                                },
+                                {
+                                  "name": "van",
+                                  "children": [
+                                    {
+                                      "name": "minivan",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "moving_van",
+                                      "children": null
+                                    },
+                                    {
+                                      "name": "police_van",
+                                      "children": null
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "vessel",
+                      "children": [
+                        {
+                          "name": "barrel",
+                          "children": null
+                        },
+                        {
+                          "name": "bathtub",
+                          "children": null
+                        },
+                        {
+                          "name": "bottle",
+                          "children": [
+                            {
+                              "name": "beer_bottle",
+                              "children": null
+                            },
+                            {
+                              "name": "jug",
+                              "children": [
+                                {
+                                  "name": "water_jug",
+                                  "children": null
+                                },
+                                {
+                                  "name": "whiskey_jug",
+                                  "children": null
+                                }
+                              ]
+                            },
+                            {
+                              "name": "pill_bottle",
+                              "children": null
+                            },
+                            {
+                              "name": "pop_bottle",
+                              "children": null
+                            },
+                            {
+                              "name": "water_bottle",
+                              "children": null
+                            },
+                            {
+                              "name": "wine_bottle",
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "name": "bucket",
+                          "children": null
+                        },
+                        {
+                          "name": "coffee_mug",
+                          "children": null
+                        },
+                        {
+                          "name": "jar",
+                          "children": [
+                            {
+                              "name": "beaker",
+                              "children": null
+                            },
+                            {
+                              "name": "vase",
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "name": "ladle",
+                          "children": null
+                        },
+                        {
+                          "name": "mortar",
+                          "children": null
+                        },
+                        {
+                          "name": "pitcher",
+                          "children": null
+                        },
+                        {
+                          "name": "reservoir",
+                          "children": [
+                            {
+                              "name": "rain_barrel",
+                              "children": null
+                            },
+                            {
+                              "name": "water_tower",
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "name": "tub",
+                          "children": null
+                        },
+                        {
+                          "name": "washbasin",
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "protective_covering",
+                  "children": [
+                    {
+                      "name": "armor",
+                      "children": [
+                        {
+                          "name": "body_armor",
+                          "children": [
+                            {
+                              "name": "chain_mail",
+                              "children": null
+                            },
+                            {
+                              "name": "cuirass",
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "name": "shield",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "armor_plate",
+                      "children": [
+                        {
+                          "name": "breastplate",
+                          "children": null
+                        },
+                        {
+                          "name": "pickelhaube",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "binder",
+                      "children": null
+                    },
+                    {
+                      "name": "cap",
+                      "children": [
+                        {
+                          "name": "lens_cap",
+                          "children": null
+                        },
+                        {
+                          "name": "thimble",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "lampshade",
+                      "children": null
+                    },
+                    {
+                      "name": "mask",
+                      "children": [
+                        {
+                          "name": "gasmask",
+                          "children": null
+                        },
+                        {
+                          "name": "ski_mask",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "roof",
+                      "children": [
+                        {
+                          "name": "dome",
+                          "children": null
+                        },
+                        {
+                          "name": "thatch",
+                          "children": null
+                        },
+                        {
+                          "name": "tile_roof",
+                          "children": null
+                        },
+                        {
+                          "name": "vault",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "screen",
+                      "children": [
+                        {
+                          "name": "fire_screen",
+                          "children": null
+                        },
+                        {
+                          "name": "mosquito_net",
+                          "children": null
+                        },
+                        {
+                          "name": "window_screen",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "sheath",
+                      "children": [
+                        {
+                          "name": "holster",
+                          "children": null
+                        },
+                        {
+                          "name": "scabbard",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "shelter",
+                      "children": [
+                        {
+                          "name": "bell_cote",
+                          "children": null
+                        },
+                        {
+                          "name": "birdhouse",
+                          "children": null
+                        },
+                        {
+                          "name": "umbrella",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "window_shade",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "structure",
+                  "children": [
+                    {
+                      "name": "barrier",
+                      "children": [
+                        {
+                          "name": "bannister",
+                          "children": null
+                        },
+                        {
+                          "name": "breakwater",
+                          "children": null
+                        },
+                        {
+                          "name": "dam",
+                          "children": null
+                        },
+                        {
+                          "name": "fence",
+                          "children": [
+                            {
+                              "name": "chainlink_fence",
+                              "children": null
+                            },
+                            {
+                              "name": "picket_fence",
+                              "children": null
+                            },
+                            {
+                              "name": "stone_wall",
+                              "children": null
+                            },
+                            {
+                              "name": "worm_fence",
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "name": "grille",
+                          "children": null
+                        },
+                        {
+                          "name": "movable_barrier",
+                          "children": [
+                            {
+                              "name": "sliding_door",
+                              "children": null
+                            },
+                            {
+                              "name": "turnstile",
+                              "children": null
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "building",
+                      "children": [
+                        {
+                          "name": "barn",
+                          "children": null
+                        },
+                        {
+                          "name": "greenhouse",
+                          "children": null
+                        },
+                        {
+                          "name": "library",
+                          "children": null
+                        },
+                        {
+                          "name": "place_of_worship",
+                          "children": [
+                            {
+                              "name": "church",
+                              "children": null
+                            },
+                            {
+                              "name": "mosque",
+                              "children": null
+                            },
+                            {
+                              "name": "stupa",
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "name": "planetarium",
+                          "children": null
+                        },
+                        {
+                          "name": "restaurant",
+                          "children": null
+                        },
+                        {
+                          "name": "shed",
+                          "children": [
+                            {
+                              "name": "apiary",
+                              "children": null
+                            },
+                            {
+                              "name": "boathouse",
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "name": "theater",
+                          "children": [
+                            {
+                              "name": "cinema",
+                              "children": null
+                            },
+                            {
+                              "name": "home_theater",
+                              "children": null
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "establishment",
+                      "children": [
+                        {
+                          "name": "mercantile_establishment",
+                          "children": [
+                            {
+                              "name": "grocery_store",
+                              "children": null
+                            },
+                            {
+                              "name": "shop",
+                              "children": [
+                                {
+                                  "name": "bakery",
+                                  "children": null
+                                },
+                                {
+                                  "name": "barbershop",
+                                  "children": null
+                                },
+                                {
+                                  "name": "bookshop",
+                                  "children": null
+                                },
+                                {
+                                  "name": "butcher_shop",
+                                  "children": null
+                                },
+                                {
+                                  "name": "confectionery",
+                                  "children": null
+                                },
+                                {
+                                  "name": "shoe_shop",
+                                  "children": null
+                                },
+                                {
+                                  "name": "tobacco_shop",
+                                  "children": null
+                                },
+                                {
+                                  "name": "toyshop",
+                                  "children": null
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "prison",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "residence",
+                      "children": [
+                        {
+                          "name": "monastery",
+                          "children": null
+                        },
+                        {
+                          "name": "palace",
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "geological_formation",
+          "children": [
+            {
+              "name": "cliff",
+              "children": null
+            },
+            {
+              "name": "geyser",
+              "children": null
+            },
+            {
+              "name": "natural_elevation",
+              "children": [
+                {
+                  "name": "coral_reef",
+                  "children": null
+                },
+                {
+                  "name": "mountain",
+                  "children": [
+                    {
+                      "name": "alp",
+                      "children": null
+                    },
+                    {
+                      "name": "volcano",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "promontory",
+                  "children": null
+                }
+              ]
+            },
+            {
+              "name": "shore",
+              "children": [
+                {
+                  "name": "lakeside",
+                  "children": null
+                },
+                {
+                  "name": "seashore",
+                  "children": null
+                }
+              ]
+            },
+            {
+              "name": "valley",
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "children": [
+        {
+          "name": "food",
+          "children": [
+            {
+              "name": "menu",
+              "children": null
+            },
+            {
+              "name": "foodstuff",
+              "children": [
+                {
+                  "name": "condiment",
+                  "children": [
+                    {
+                      "name": "guacamole",
+                      "children": null
+                    },
+                    {
+                      "name": "sauce",
+                      "children": [
+                        {
+                          "name": "carbonara",
+                          "children": null
+                        },
+                        {
+                          "name": "chocolate_sauce",
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "dough",
+                  "children": null
+                }
+              ]
+            },
+            {
+              "name": "nutriment",
+              "children": [
+                {
+                  "name": "course",
+                  "children": [
+                    {
+                      "name": "plate",
+                      "children": null
+                    },
+                    {
+                      "name": "dessert",
+                      "children": [
+                        {
+                          "name": "frozen_dessert",
+                          "children": [
+                            {
+                              "name": "ice_cream",
+                              "children": null
+                            },
+                            {
+                              "name": "ice_lolly",
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "name": "trifle",
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "dish",
+                  "children": [
+                    {
+                      "name": "consomme",
+                      "children": null
+                    },
+                    {
+                      "name": "hot_pot",
+                      "children": null
+                    },
+                    {
+                      "name": "sandwich",
+                      "children": [
+                        {
+                          "name": "cheeseburger",
+                          "children": null
+                        },
+                        {
+                          "name": "hotdog",
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "pizza",
+                      "children": null
+                    },
+                    {
+                      "name": "potpie",
+                      "children": null
+                    },
+                    {
+                      "name": "burrito",
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "hay",
+              "children": null
+            }
+          ]
+        },
+        {
+          "name": "vegetable",
+          "children": [
+            {
+              "name": "cruciferous_vegetable",
+              "children": [
+                {
+                  "name": "head_cabbage",
+                  "children": null
+                },
+                {
+                  "name": "broccoli",
+                  "children": null
+                },
+                {
+                  "name": "cauliflower",
+                  "children": null
+                }
+              ]
+            },
+            {
+              "name": "squash",
+              "children": [
+                {
+                  "name": "summer_squash",
+                  "children": [
+                    {
+                      "name": "zucchini",
+                      "children": null
+                    },
+                    {
+                      "name": "spaghetti_squash",
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "name": "winter_squash",
+                  "children": [
+                    {
+                      "name": "acorn_squash",
+                      "children": null
+                    },
+                    {
+                      "name": "butternut_squash",
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "cucumber",
+              "children": null
+            },
+            {
+              "name": "artichoke",
+              "children": null
+            },
+            {
+              "name": "bell_pepper",
+              "children": null
+            },
+            {
+              "name": "cardoon",
+              "children": null
+            },
+            {
+              "name": "mushroom",
+              "children": null
+            }
+          ]
+        },
+        {
+          "name": "beverage",
+          "children": [
+            {
+              "name": "alcohol",
+              "children": [
+                {
+                  "name": "red_wine",
+                  "children": null
+                },
+                {
+                  "name": "punch",
+                  "children": [
+                    {
+                      "name": "cup",
+                      "children": null
+                    },
+                    {
+                      "name": "eggnog",
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "espresso",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+# Configuration for Smith Faces (Helen) Dataset Training
+# Supports 11 facial component classes
+
+model:
+    arch: unet
+
+data:
+    dataset: smith_faces
+    train_split: training
+    val_split: validation
+    img_rows: 128
+    img_cols: 128
+    path: /path/to/smith_faces_dataset
+    # Path to initial hierarchy tree .txt file
+    initial_tree_txt: ./assets/smith_faces_hierarchy.txt
+    # CSV file with class names
+    classes_txt: ./assets/smith_faces_classes.txt
+
+training:
+    # --- Iteration loop (critic-editor) ---
+    max_iter: 10              # number of outer iterations
+    epochs_per_iter: 20       # epochs trained per iteration
+    resume_weights: True      # carry model weights forward across iterations
+    dynamic_hierarchy: False  # False = static hierarchy (no LLM edits); True = LLM refines tree
+    max_tree_updates: 50      # max times LLM can edit the hierarchy
+    patience: 10              # early stopping patience
+
+    # --- Training hyperparameters ---
+    batch_size: 4
+    n_workers: 8
+    print_interval: 50
+    use_hierarchy: True       # use hierarchical loss function
+    
+    optimizer:
+        name: 'sgd'
+        lr: 0.01
+    
+    loss:
+        name: 'tree_loss'     # hierarchical tree loss
+    
+    # --- Data augmentation ---
+    augmentations:
+        rcropfixed: None
+    
+    # --- Visualization ---
+    visdom: False
+    matplotlib: True

@@ -1,0 +1,16 @@
+# Core ML & Data Handling
+torch
+torchvision
+numpy
+scikit-learn
+pandas
+openpyxl
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+tqdm
+openai
+timm
