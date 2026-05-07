@@ -267,16 +267,6 @@ python analysis/embed_tree_builder.py \
 
 ---
 
-## Reproducibility
-
-- Global seed: **42** (Python / NumPy / PyTorch / CUDA)
-- CIFAR-100 train/val split: 90/10 deterministic carve from training set
-- Tiered-ImageNet split: same 90/10 carve from training set
-- Model: **Swin-Tiny** (`swin_tiny_patch4_window7_224`, ImageNet-1k pretrained via `timm`)
-- Optimiser: **AdamW** lr=5e-5, weight_decay=0.05, CosineAnnealingLR
-
----
-
 ## License
 
 Released for academic, non-commercial use.
