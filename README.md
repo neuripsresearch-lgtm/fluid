@@ -192,7 +192,7 @@ cd classification/fer2013
 python pipeline.py  # generates initial tree from label names alone
 ```
 
-### Baseline Benchmark — Reproducing Tables 1 & 3
+### Baseline Benchmark
 
 ```bash
 cd ablations
